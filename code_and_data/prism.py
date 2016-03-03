@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-
+#Emma Reading - University of Victoria
 import os
 
 from util2 import Arff2Skl
@@ -139,7 +139,6 @@ class Prism():
         avail_attr = [a for a in attributes if a != label]
 
         ###############################
-        # fill in your implementation 
   
         best = [] 
         best_pt = 0
